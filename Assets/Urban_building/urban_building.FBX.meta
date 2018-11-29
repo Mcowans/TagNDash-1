@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: a7b68ba23b425bd4c9c2778c82b83ede
-timeCreated: 1539003924
-licenseType: Store
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     100002: urban_building_ window_01
@@ -56,6 +54,7 @@ ModelImporter:
     6400008: urban_building_exterior_details
     6400010: urban_building_wall_brick
     6400012: urban_building_wall_white_roof
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -110,6 +109,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -141,6 +141,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
